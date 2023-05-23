@@ -1,1 +1,0 @@
-culenadododod para ser elimando
