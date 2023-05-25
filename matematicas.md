@@ -2,7 +2,7 @@
 # Nuestro cliente es el mejor
 
 Esto es un fichero muy chulo.
-Estos son unos cambios que se aplicaran con rebase
+Estos son unos cambios que se aplicaran con rebase y han sido exitosos.
 
 Hola, este es un fichero de lectura de nuestro repositorio.
 Esto es una modificación.
