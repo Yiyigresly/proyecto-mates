@@ -1,2 +1,2 @@
-print("esto es un scrip para hacer matrices")
+print("esto es un script para hacer matrices")
 print("solucionando problemas de este archivo")
