@@ -1,5 +1,5 @@
 # Historia de rama main
-Hace unas semanas este curso empezó y dentro de poco terminara.
+Este curso se ha realizado en los meses de junio y julio.
 
 ## Inicios de la rama
 la rama empezó llamandose master.
