@@ -7,3 +7,5 @@ Primer commit.Segundo commit .
 - Relajate:[ayuda](https://www.youtube.com/watch?v=zlTIextYnyQ)
 
 - Esto seran mis cambios para mi pull request, rama mismo nombre.
+
+- Rama pull request 2 para recordar y practicar.
