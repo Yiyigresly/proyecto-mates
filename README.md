@@ -9,3 +9,5 @@ Primer commit.Segundo commit .
 - Esto seran mis cambios para mi pull request, rama mismo nombre.
 
 - Rama pull request 2 para recordar y practicar.
+
+- Recuerda haras más pull request para practicar.
