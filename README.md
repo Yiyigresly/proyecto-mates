@@ -17,3 +17,5 @@ Primer commit.Segundo commit .
      Pasado excitosamente el rebase 
 
 ### Rama prueba con mensaje para posterior ser eliminada
+
+### probando nueva rama de conflicto (escrito desde main rama)
