@@ -14,5 +14,6 @@ Primer commit.Segundo commit .
 ### Datos de Rama algebra
   Para posterioemente borrarla.
 ### archivo conflictos creado de una rama para fusionar para ver errores, probando rebase en esa rama
+     Pasado excitosamente el rebase 
 
 ### Rama prueba con mensaje para posterior ser eliminada
