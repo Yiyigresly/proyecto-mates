@@ -13,5 +13,6 @@ Primer commit.Segundo commit .
 - Recuerda haras más pull request para practicar.
 ### Datos de Rama algebra
   Para posterioemente borrarla.
+### archivo conflictos creado de una rama para fusionar para ver errores, probando rebase en esa rama
 
 ### Rama prueba con mensaje para posterior ser eliminada
