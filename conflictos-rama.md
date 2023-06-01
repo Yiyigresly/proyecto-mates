@@ -1,0 +1,1 @@
+conflictos de una rama externa para fusionar a posterior
