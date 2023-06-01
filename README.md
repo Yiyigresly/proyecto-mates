@@ -16,4 +16,6 @@ Primer commit.Segundo commit .
 ### archivo conflictos creado de una rama para fusionar para ver errores, probando rebase en esa rama
      Pasado excitosamente el rebase 
 
+
 ### Rama prueba con mensaje para posterior ser eliminada
+#### provocando conflicto con rama main desde otra rama modificando elmismo archivo
