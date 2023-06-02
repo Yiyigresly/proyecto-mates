@@ -1,4 +1,4 @@
-# Importante Leer Instrucciones
+# Importante Leer Instrucciones!!!!
 
 Este es un fichero para mostrar los commits a revertir.
 El cliente ya puede seguir usando nuestro proyecto de mates.
@@ -20,6 +20,7 @@ Primer commit.Segundo commit .
 ### Rama prueba con mensaje para posterior ser eliminada
 
 ### probando nueva rama de conflicto (escrito desde main rama)
-#### provocando conflicto con rama main desde otra rama modificando elmismo archivo
+#### provocando conflicto con rama main desde otra rama modificando el mismo archivo
 
 ## Linea para probar los cambios en github Pages
+   Probando el uso de Git Hub Pages.
