@@ -9,7 +9,7 @@ Primer commit.Segundo commit .
 - Esto seran mis cambios para mi pull request, rama mismo nombre.
 
 - Rama pull request 2 para recordar y practicar.
-- Cambios  para el pull-request-4
+
 - Recuerda haras más pull request para practicar.
 ### Datos de Rama algebra
   Para posterioemente borrarla.

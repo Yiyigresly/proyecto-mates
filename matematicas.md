@@ -13,6 +13,5 @@ Mis progresos hans ido retomados del stash.
   Modificacion desde github web
 ## Modificacion desde remote rama main
   Probando cosillas
-## Modificacion  para ver cambios hechs desde la rama pullrequest-4  
-
-## modificando dese remote main pra repasar
+  
+ ## modificando dese remote main pra repasar
